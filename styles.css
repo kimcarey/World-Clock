@@ -1,0 +1,33 @@
+
+.col {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.clock-display {
+  font-family: courier, monospace;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+/* Cities classes */
+.sanfran {
+  background-color: #ffe066;
+
+}
+
+.london {
+  background-color: #ff9999;
+
+}
+
+.hongkong {
+  background-color: #b3ecff;
+
+}
+
+.australia {
+  background-color: #79d2a6;
+
+}
